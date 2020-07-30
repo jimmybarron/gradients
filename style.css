@@ -1,13 +1,39 @@
 .gradBg {
+  position: relative;
   height: 100vh;
   width: 100vw;
   background-color: #FFE0B1;
 }
 
 .gradDark1 {
+  position: absolute;
   height: 100vh;
   width: 100vw;
   background-image: radial-gradient(100% 40% at 0% 0%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
+}
+
+.gradDark2 {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(60% 20% at 100% 0%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
+}
+
+.gradDark3 {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(40% 40% at 0% 100%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
+}
+
+.gradDark4 {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(40% 40% at 100% 100%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
   background-blend-mode: overlay;
 }
 
