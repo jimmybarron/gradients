@@ -9,57 +9,57 @@
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(100% 40% at 0% 0%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(100% 40% at 0% 0%, #FF940C 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 .gradDark2 {
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(60% 20% at 100% 0%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(60% 20% at 100% 0%, #FF940C 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 .gradDark3 {
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(40% 40% at 0% 100%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(40% 40% at 0% 100%, #FF940C 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 .gradDark4 {
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(40% 40% at 100% 100%, #FF940C 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(40% 40% at 100% 100%, #FF940C 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 .gradLight1 {
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(30% 60% at 40% 20%, #FFD349 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(30% 60% at 40% 20%, #FFD349 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 .gradLight2 {
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(40% 40% at 70% 80%, #FFD349 0%, rgba(0, 0, 0, 0) 100%);
-  background-blend-mode: overlay;
+  background-image: radial-gradient(40% 40% at 70% 80%, #FFD349 0%, rgba(255, 0, 0, 0) 100%);
+  background-blend-mode: normal;
 }
 
 /* background:
-radial-gradient(94.79% 34.69% at 5.21% -10.03%, #FF940C 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
-radial-gradient(37.11% 19.24% at 87.15% 2.05%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%);
-radial-gradient(37.11% 19.24% at 87.15% 2.05%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
-radial-gradient(43.72% 34.09% at 84.17% 98.69%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
-radial-gradient(23.68% 70.91% at 12.26% 97.77%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
-radial-gradient(28.74% 34.36% at 43.09% 44.15%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
+radial-gradient(94.79% 34.69% at 5.21% -10.03%, #FF940C 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%),
+radial-gradient(37.11% 19.24% at 87.15% 2.05%, #FFD248 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%);
+radial-gradient(37.11% 19.24% at 87.15% 2.05%, #FFD248 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%),
+radial-gradient(43.72% 34.09% at 84.17% 98.69%, #FFD248 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%),
+radial-gradient(23.68% 70.91% at 12.26% 97.77%, #FFD248 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%),
+radial-gradient(28.74% 34.36% at 43.09% 44.15%, #FFD248 0%, #FF9111 0.01%, rgba(255, 0, 0, 0) 100%),
 radial-gradient(53.96% 83.29% at 53.99% 121.94%, #FFFFFF 0%, #FF9111 0.01%, rgba(255, 255, 255, 0) 100%),
 radial-gradient(35.59% 106.58% at 88.82% 50.07%, #FFFFFF 0%, #FF9111 0.01%, rgba(255, 255, 255, 0) 100%),
 radial-gradient(50.76% 105.76% at 12.74% 50.07%, #FFFFFF 0%, #FF9111 0.01%, rgba(255, 255, 255, 0) 100%),
