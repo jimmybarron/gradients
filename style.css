@@ -37,6 +37,22 @@
   background-blend-mode: overlay;
 }
 
+.gradLight1 {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(30% 60% at 40% 20%, #FFD349 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
+}
+
+.gradLight2 {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: radial-gradient(40% 40% at 70% 80%, #FFD349 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
+}
+
 /* background:
 radial-gradient(94.79% 34.69% at 5.21% -10.03%, #FF940C 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%),
 radial-gradient(37.11% 19.24% at 87.15% 2.05%, #FFD248 0%, #FF9111 0.01%, rgba(0, 0, 0, 0) 100%);
